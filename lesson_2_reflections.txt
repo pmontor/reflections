@@ -1,0 +1,12 @@
+What happens when you initialize a repository? Why do you need to do it?
+When you initialize a repository using git init command, you are creating
+a directory that it is going to save all metadata about changes of the files
+that you are tracking of. You need to do this because with this you have
+the option to choose only the files you want to follow their changes.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+WWhile using a directory for staging, you can keep working on a project and subsaving different changes, but small changes. When you have enough small changes you can commit your project and have a significant new project.
+
+How can you use the staging area to make sure you have one commit per logical change?
+Because it is better to modify a file when you have enough changes, a logical change could be one of them<
+
