@@ -10,3 +10,5 @@ WWhile using a directory for staging, you can keep working on a project and subs
 How can you use the staging area to make sure you have one commit per logical change?
 Because it is better to modify a file when you have enough changes, a logical change could be one of them<
 
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+When you are working in different features of a project and you only need to add features to the project. I think this can be a good way to create different branches for the people that are working on that features.
