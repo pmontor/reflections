@@ -12,3 +12,6 @@ Because it is better to modify a file when you have enough changes, a logical ch
 
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 When you are working in different features of a project and you only need to add features to the project. I think this can be a good way to create different branches for the people that are working on that features.
+
+How do the diagrams help you visualize the branch structure?
+It is very useful because you have a way to see graphically how is the flow of changes in a Project.
