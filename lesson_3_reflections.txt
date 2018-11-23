@@ -1,1 +1,4 @@
 I am still learning how to use git.
+
+Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+Because there could be changes that you are not ready to commit.|
