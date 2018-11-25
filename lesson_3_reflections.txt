@@ -13,3 +13,6 @@ Because we can follow changes from the main project.
 
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 I think it's better to use Git or GitHub to collaborate in a software project because you can work in differente stages of your project and when you are done you can merge your part with the rest of your team.
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+It is really helpful because you can assign different features of a project to different people, so each one can work on the same project and when they are done they can merge all the features to a single master project.
