@@ -10,3 +10,6 @@ You use a branch to work in a project that you have permissions to modify it.
 
 What is the benefit of having a copy of the last known state of the remote stored locally?
 Because we can follow changes from the main project.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+I think it's better to use Git or GitHub to collaborate in a software project because you can work in differente stages of your project and when you are done you can merge your part with the rest of your team.
